@@ -5,7 +5,7 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 @Component({
   standalone: true,
   imports: [NxWelcomeComponent, RouterModule],
-  selector: 'angular-job-net-root',
+  selector: 'job-net-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })

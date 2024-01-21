@@ -2,7 +2,7 @@
   "name": "job-net-host",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "prefix": "angular-job-net",
+  "prefix": "job-net",
   "sourceRoot": "apps/job-net-host/src",
   "tags": [],
   "targets": {

@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "angular-job-net",
+            "prefix": "job-net",
             "style": "kebab-case"
           }
         ]
